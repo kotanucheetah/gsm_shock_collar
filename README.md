@@ -2,10 +2,9 @@
 A project to control a cheap Petronics shock collar through a GSM board using an Arduino
 
 # Introduction
-This was my first "real" Arduino project that wasn't just blinking an LED. I started this in 2018 and I'm finally getting around to posting it on here in hopes that it'll be useful for someone else in the future.
+This was my first "real" Arduino project that wasn't just blinking an LED. I started this in 2018 and I'm finally getting around to posting it in 2020 in hopes that it'll be useful for someone else in the future.
 
-This project is intended to demonstrate a proof of concept for remotely controlling
-a Petronics 433mhz shock collar using an Arduino, a GSM board, and a 433mhz transmitter.
+This project is intended to demonstrate a proof of concept for remotely controlling a Petronics 433mhz shock collar using an Arduino, a GSM board, and a 433mhz transmitter.
 
 ## Goals:
 * Use a cheap GSM board to receive text (SMS) commands
